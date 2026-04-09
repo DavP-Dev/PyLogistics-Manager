@@ -16,6 +16,10 @@ A **Python-based** inventory management system designed to optimize stock contro
 
 ---
 
+![Inventory Report Preview](output_sample/Informe_preview.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 * **Language:** Python 3.x
